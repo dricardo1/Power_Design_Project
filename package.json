@@ -1,0 +1,28 @@
+{
+  "name": "power_design_project",
+  "version": "1.0.0",
+  "description": "UX/UI Webpage redesign for Power Design Client in St. Petersburg, Fl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dricardo1/Power_Design_Project.git"
+  },
+  "author": "Don Ricardo JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dricardo1/Power_Design_Project/issues"
+  },
+  "homepage": "https://github.com/dricardo1/Power_Design_Project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-jshint": "^1.11.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-uglify": "^1.2.0"
+  }
+}
